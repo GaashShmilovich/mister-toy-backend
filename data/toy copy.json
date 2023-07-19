@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "Y6jScy",
+    "name": "Superman",
+    "price": "$89.00",
+    "labels": ["Doll"],
+    "createdAt": 1689687527731,
+    "inStock": true
+  },
+  {
+    "_id": "Z9kPqt",
+    "name": "Barbie",
+    "price": "$49.99",
+    "labels": ["Doll"],
+    "createdAt": 1689687528001,
+    "inStock": true
+  },
+  {
+    "_id": "X2mRty",
+    "name": "LEGO City",
+    "price": "$69.95",
+    "labels": ["Building Blocks"],
+    "createdAt": 1689687528305,
+    "inStock": true
+  },
+  {
+    "_id": "W8nTbg",
+    "name": "Hot Wheels Track",
+    "price": "$24.99",
+    "labels": ["Vehicle"],
+    "createdAt": 1689687528523,
+    "inStock": true
+  },
+  {
+    "_id": "V7lKpm",
+    "name": "My Little Pony",
+    "price": "$39.95",
+    "labels": ["Doll"],
+    "createdAt": 1689687528841,
+    "inStock": true
+  },
+  {
+    "_id": "U3gJfn",
+    "name": "Nerf Blaster",
+    "price": "$32.50",
+    "labels": ["Action Figure"],
+    "createdAt": 1689687529130,
+    "inStock": true
+  },
+  {
+    "_id": "T4dShi",
+    "name": "Fisher-Price Playset",
+    "price": "$59.95",
+    "labels": ["Doll"],
+    "createdAt": 1689687529407,
+    "inStock": true
+  },
+  {
+    "_id": "S1bMcl",
+    "name": "Transformers Action Figure",
+    "price": "$19.99",
+    "labels": ["Action Figure"],
+    "createdAt": 1689687529634,
+    "inStock": true
+  },
+  {
+    "_id": "R8oKwn",
+    "name": "Disney Princess Castle",
+    "price": "$79.95",
+    "labels": ["Doll"],
+    "createdAt": 1689687529923,
+    "inStock": true
+  },
+  {
+    "_id": "Q7zMzr",
+    "name": "Thomas the Train Set",
+    "price": "$42.50",
+    "labels": ["Vehicle"],
+    "createdAt": 1689687530256,
+    "inStock": true
+  },
+  {
+    "_id": "P6lXah",
+    "name": "Remote Control Car",
+    "price": "$27.99",
+    "labels": ["Vehicle"],
+    "createdAt": 1689687530577,
+    "inStock": true
+  },
+  {
+    "_id": "O5kYbt",
+    "name": "Baby Alive",
+    "price": "$34.95",
+    "labels": ["Doll"],
+    "createdAt": 1689687530899,
+    "inStock": true
+  },
+  {
+    "_id": "N4jUgp",
+    "name": "Art Set",
+    "price": "$19.99",
+    "labels": ["Creativity"],
+    "createdAt": 1689687531180,
+    "inStock": true
+  },
+  {
+    "_id": "M3hTie",
+    "name": "Play-Doh Fun Factory",
+    "price": "$14.50",
+    "labels": ["Creativity"],
+    "createdAt": 1689687531499,
+    "inStock": true
+  },
+  {
+    "_id": "L2fSjb",
+    "name": "Paw Patrol Action Figures",
+    "price": "$21.95",
+    "labels": ["Action Figure"],
+    "createdAt": 1689687531793,
+    "inStock": true
+  }
+]
